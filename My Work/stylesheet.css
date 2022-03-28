@@ -1,0 +1,101 @@
+.container {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    background-color: turquoise;
+    border:10px solid darkgreen;
+    padding: 10px;
+    margin: 0px auto;
+
+    
+}
+.page2 {background-color: turquoise;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    margin: 0px auto;
+    background-color: turquoise;
+    border:10px solid darkgreen;
+    padding: 10px;
+}
+.hobs{ background-color: brown;
+    margin-top: 0px;
+    margin-bottom: 10px;
+border: 10px solid antiquewhite;
+padding-left: 100px;
+padding-right: 100px;
+padding-top: 0px;
+padding-bottom: 0px;
+
+}
+.refs{ background-color: yellow;
+    margin-top: 20px;
+    margin-bottom: 20px;
+border: 10px solid antiquewhite;
+padding-left: 100px;
+padding-right: 100px;
+padding-top: 0px;
+padding-bottom: 0px;
+
+}
+#chris{color: white;
+    font-weight: 950;
+
+}
+.alf{color: brown;
+
+}
+.page3{background-color: turquoise;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    margin: 0px auto;
+    background-color: turquoise;
+    border:10px solid darkgreen;
+    padding: 10px;
+}
+.sub{color: burlywood;
+    background-color: maroon;
+text-align: right;
+}
+#hobs-but{color:red;
+    background-color: rgb(172, 161, 154);
+    text-align: left;
+    font-weight: 900;
+
+}
+.homee{background-color: chocolate;
+    font-weight: 600;
+
+}
+.contact{background-color: brown;
+    color: bisque;
+    font-weight: bolder;
+
+}
+.obj{background-color: brown;
+    margin-top: 0px;
+    margin-bottom: 10px;
+border: 10px solid antiquewhite;
+padding-left: 100px;
+padding-right: 100px;
+padding-top: 0px;
+padding-bottom: 0px;
+
+}
+.qual{background-color: yellow;
+    margin-top: 20px;
+    margin-bottom: 20px;
+border: 10px solid darkgoldenrod;
+padding-left: 100px;
+padding-right: 100px;
+padding-top: 0px;
+padding-bottom: 0px;
+}
+.exp{background-color: brown;
+    margin-top: 0px;
+    margin-bottom: 10px;
+border: 10px solid antiquewhite;
+padding-left: 100px;
+padding-right: 100px;
+padding-top: 0px;
+padding-bottom: 0px;
+
+}
